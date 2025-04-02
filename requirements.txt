@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+python-multipart
+azure-ai-formrecognizer
+python-dotenv
+PyPDF2
+python-dateutil
+pytz
+pymupdf
